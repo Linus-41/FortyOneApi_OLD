@@ -1,0 +1,4 @@
+name: FortyOneApi
+version: '${project.version}'
+main: me.linus41.fortyoneapi.FortyOneApi
+api-version: 1.19
